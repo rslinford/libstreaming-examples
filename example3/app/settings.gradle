@@ -1,0 +1,5 @@
+
+include ':'
+
+include ':libstreaming'
+project(':libstreaming').projectDir = new File('../../../libstreaming')

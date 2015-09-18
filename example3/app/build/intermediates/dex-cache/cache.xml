@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/rslinford/Dev/AndroidStudio/libstreaming-examples/example3/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/rslinford/Dev/AndroidStudio/libstreaming-examples/example3/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-c638f6ffdc58aecef2c1e92cb823aa205b01708c.jar" />
+    </item>
+    <item
+        jar="/home/rslinford/Dev/AndroidStudio/libstreaming-examples/example3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/rslinford/Dev/AndroidStudio/libstreaming-examples/example3/app/build/intermediates/pre-dexed/debug/classes-9da4766d13e740f124c3dbb1e8b4c542ec9f5433.jar" />
+    </item>
+    <item
+        jar="/home/rslinford/Dev/AndroidStudio/libstreaming-examples/example3/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f8761a2a7a8faedf6e8bcb1a14bcf1a8e7346eb8">
+        <dex dex="/home/rslinford/Dev/AndroidStudio/libstreaming-examples/example3/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-f3ec570c54d059f4918d8865f69f6cc4ff61458c.jar" />
+    </item>
+    <item
+        jar="/home/rslinford/Dev/AndroidStudio/libstreaming-examples/example3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="/home/rslinford/Dev/AndroidStudio/libstreaming-examples/example3/app/build/intermediates/pre-dexed/debug/classes-31d04361da19146171d4e6c8607775ebd1e4ef65.jar" />
+    </item>
+    <item
+        jar="/home/rslinford/Dev/AndroidStudio/libstreaming-examples/example3/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3ae231b4fc4ff0e7647bdcf28d532ec199161701">
+        <dex dex="/home/rslinford/Dev/AndroidStudio/libstreaming-examples/example3/app/build/intermediates/pre-dexed/debug/classes-da7dd69de71af0b2950d0ee844392625da1a8f57.jar" />
+    </item>
+    <item
+        jar="/home/rslinford/Dev/AndroidStudio/libstreaming-examples/example3/app/build/intermediates/exploded-aar/app/libstreaming/unspecified/debug/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dd07ec60b62e8c704d84bc7bca2fdf6492047c3b">
+        <dex dex="/home/rslinford/Dev/AndroidStudio/libstreaming-examples/example3/app/build/intermediates/pre-dexed/debug/classes-941d1653e50cc1992596cdbe4ecc7a9653cf610a.jar" />
+    </item>
+    <item
+        jar="/home/rslinford/Dev/AndroidStudio/libstreaming-examples/example3/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/rslinford/Dev/AndroidStudio/libstreaming-examples/example3/app/build/intermediates/pre-dexed/debug/classes-269fed3859a5dd803fda668a2019a83471d0feca.jar" />
+    </item>
+    <item
+        jar="/home/rslinford/Dev/AndroidStudio/libstreaming-examples/example3/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/home/rslinford/Dev/AndroidStudio/libstreaming-examples/example3/app/build/intermediates/pre-dexed/debug/classes-4b1fac8e8a7a52b525b7ea7dd4ee1cd1dd275a26.jar" />
+    </item>
+    <item
+        jar="/home/rslinford/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/rslinford/Dev/AndroidStudio/libstreaming-examples/example3/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-0ac1a4f31a143e46821dda694d20d0d67f1d9f7b.jar" />
+    </item>
+
+</items>
